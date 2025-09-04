@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeMaterials/PalmBushTextures/openPBR_shader1.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeMaterials/PalmTreeTextures/TreeMaterial.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UP/LLTI6LNDMG7PMDAWMU5OLG.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/PM/FQAAF5ZJ48PEWBXY3EWHF6.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/Characters/Character/CharacterAnimation/CharacterWithAnimation.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/Characters/Character/CharacterAnimation/CharacterWithAnimation_Skeleton.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/JO/IIYRQJBAO93STQ3AQXNW6B.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/Z4/4PHTWOZ141KGO6VPN6TTL2.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/Characters/Character/CharacterWithAnimation_PhysicsAsset.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeObjects/PalmBushComplete.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeObjects/PalmTreeComplete.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeObjects/PalmTreeComplete1.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeMaterials/PalmBushTextures/Palm_Bush_openPBR_shader1_BaseColor.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeMaterials/PalmBushTextures/Palm_Bush_openPBR_shader1_Normal.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeMaterials/PalmBushTextures/Palm_Bush_openPBR_shader1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/Characters/Character/SkinAndHoodMaterial.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeMaterials/PalmTreeTextures/The_Real_Palm_Tree_openPBR_shader1_BaseColor.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeMaterials/PalmTreeTextures/The_Real_Palm_Tree_openPBR_shader1_Normal.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/PalmTrees/TreeMaterials/PalmTreeTextures/The_Real_Palm_Tree_openPBR_shader1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/Characters/Character/clothingMaterial.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/Characters/Character/CharacterTextures/clothingMaterial.uasset",
+				"C:/Users/akohn/Downloads/Oasis-Final/Oasis_Final_Project/Content/Characters/Character/CharacterTextures/SkinAndHoodMaterial.uasset"
+			]
+		}
+	]
+}
